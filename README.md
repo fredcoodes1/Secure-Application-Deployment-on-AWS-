@@ -6,7 +6,7 @@ This project documents how I identified security vulnerabilities in an existing 
 
 ---
 
-## 🔍 Initial Security Issues Identified
+## Initial Security Issues Identified
 
 The original application contained multiple critical security flaws:
 
@@ -54,7 +54,7 @@ These issues exposed the application to unauthorized access, data breaches, and 
 
 ---
 
-## 🗄️ Data Layer Security
+## Data Layer Security
 
 ### RDS
 - Deployed in private subnets
@@ -70,7 +70,7 @@ These issues exposed the application to unauthorized access, data breaches, and 
 
 ---
 
-## 🛡️ Additional Security Controls
+## Additional Security Controls
 
 - AWS Web Application Firewall (WAF) integrated with the Application Load Balancer
 - AWS Managed Rule Groups enabled to protect against common web exploits
@@ -78,7 +78,7 @@ These issues exposed the application to unauthorized access, data breaches, and 
 
 ---
 
-## ✅ Outcome
+## Outcome
 
 The redesigned architecture:
 - Eliminates unnecessary public exposure
@@ -88,7 +88,7 @@ The redesigned architecture:
 
 ---
 
-## 📌 Skills Demonstrated
+## Skills Demonstrated
 
 - AWS Networking (VPC, Subnets, Route Tables)
 - Cloud Security & Hardening
