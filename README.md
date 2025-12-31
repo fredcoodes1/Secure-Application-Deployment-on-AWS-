@@ -21,7 +21,7 @@ These issues exposed the application to unauthorized access, data breaches, and 
 
 ---
 
-## 🏗️ Secure Architecture Design
+## Secure Architecture Design
 
 ### Virtual Private Cloud (VPC)
 - Custom VPC with CIDR block `10.0.0.0/16`
@@ -39,7 +39,7 @@ These issues exposed the application to unauthorized access, data breaches, and 
 
 ---
 
-## 🔐 Application Security
+## Application Security
 
 ### Compute Layer
 - Application EC2 instances deployed in private subnets
