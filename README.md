@@ -14,7 +14,6 @@ The original application contained multiple critical security flaws:
 - Weak database credentials with no MFA
 - No encryption enabled for data at rest
 - Publicly accessible S3 bucket due to misconfiguration
-- No threat detection, logging, or monitoring enabled
 
 These issues exposed the application to unauthorized access, data breaches, and undetected attacks.
 
