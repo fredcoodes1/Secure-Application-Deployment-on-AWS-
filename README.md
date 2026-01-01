@@ -1,6 +1,5 @@
 # Secure-Application-Deployment-on-AWS-
 
-# Securing a Vulnerable AWS Application
 
 This project documents how I identified security vulnerabilities in an existing AWS hosted application and redesigned the architecture to follow AWS security best practices, including network segmentation, least privilege access, and defense in depth.
 
