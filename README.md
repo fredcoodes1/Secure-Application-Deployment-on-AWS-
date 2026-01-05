@@ -76,6 +76,10 @@ These issues exposed the application to unauthorized access, data breaches, and 
 - AWS Managed Rule Groups enabled to protect against common web exploits
 - Network isolation ensures backend resources are not directly reachable from the internet
 
+- Debugging & Lessons Learned
+
+During testing, the Application Load Balancer was initially unreachable due to misconfigured security group rules. Correcting these rules restored access and reinforced the value of using Infrastructure as Code (Terraform) to avoid manual configuration errors and improve consistency.
+
 ---
 
 ## Outcome
