@@ -89,7 +89,7 @@ The redesigned architecture:
 - Eliminates unnecessary public exposure
 - Protects sensitive user data
 - Improves availability and fault tolerance
-- Follows AWS Well-Architected security best practices
+- Follows AWS Well Architected security best practices
 
 ---
 
